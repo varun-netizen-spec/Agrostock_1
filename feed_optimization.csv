@@ -1,0 +1,251 @@
+Feed_ID,Feed_Name,Energy (kcal/kg),Protein (%),Fiber (%),Cost_per_kg (₹),Recommended_for,Milk_Yield_Impact,Availability,Supplier
+F001,Maize,1962,15.5,9.6,18.08,Calves,+,Medium,FarmFeed Co
+F002,Hay,2066,23.8,14.5,39.42,Adult Cows,-,Low,Local Vendor
+F003,Bran,2292,22.4,12.9,22.33,Milking Cows,+,Low,GreenFeeders
+F004,Soybean Meal,2448,18.7,14.9,23.28,Milking Cows,-,Medium,FarmFeed Co
+F005,Barley,1946,23.4,9.8,23.16,Milking Cows,+,High,GreenFeeders
+F006,Hay,2466,21.6,14.6,22.71,Adult Cows,0,Medium,AgroMart
+F007,Barley,1829,19.9,5.5,25.22,Adult Cows,-,Low,AgroMart
+F008,Cottonseed Cake,2643,13.5,6.5,36.13,Adult Cows,-,Low,AgroMart
+F009,Barley,2201,20.7,12.3,21.72,Adult Cows,-,High,Local Vendor
+F010,Bran,2755,15.2,14.9,27.18,Calves,+,Low,GreenFeeders
+F011,Bran,2413,22.0,6.5,29.05,Milking Cows,-,Medium,GreenFeeders
+F012,Bran,1970,21.6,8.1,29.33,Calves,+,Low,AgroMart
+F013,Maize,2092,16.2,6.0,35.5,Adult Cows,+,Low,FarmFeed Co
+F014,Bran,2109,20.5,8.3,28.2,Adult Cows,+,Medium,Local Vendor
+F015,Soybean Meal,2397,13.7,13.0,28.84,Adult Cows,0,Low,FarmFeed Co
+F016,Barley,2153,13.4,11.3,36.28,Adult Cows,0,High,Local Vendor
+F017,Barley,2485,13.2,12.9,21.4,Milking Cows,0,Low,AgroMart
+F018,Hay,2620,22.2,14.3,32.7,Calves,-,High,FarmFeed Co
+F019,Cottonseed Cake,1816,18.7,9.7,27.46,Calves,+,High,AgroMart
+F020,Barley,1985,14.0,10.2,36.08,Milking Cows,+,Medium,GreenFeeders
+F021,Cottonseed Cake,2408,21.5,14.0,33.98,Calves,-,Medium,Local Vendor
+F022,Maize,2730,14.7,7.1,36.18,Calves,0,Low,Local Vendor
+F023,Cottonseed Cake,2305,17.4,13.6,28.83,Calves,-,Low,FarmFeed Co
+F024,Hay,2709,15.8,13.0,39.49,Adult Cows,-,Low,AgroMart
+F025,Barley,2152,17.4,5.9,29.58,Adult Cows,-,Medium,Local Vendor
+F026,Cottonseed Cake,2782,22.3,9.9,22.8,Milking Cows,+,Medium,Local Vendor
+F027,Maize,2282,18.1,14.8,33.82,Milking Cows,+,Medium,FarmFeed Co
+F028,Soybean Meal,2265,19.2,10.7,24.1,Milking Cows,-,Low,Local Vendor
+F029,Barley,2509,20.5,14.2,28.32,Adult Cows,+,Low,Local Vendor
+F030,Maize,2556,23.2,6.1,26.2,Calves,+,Medium,GreenFeeders
+F031,Bran,2608,17.1,5.7,31.33,Calves,0,Low,FarmFeed Co
+F032,Soybean Meal,2312,23.4,8.0,28.83,Calves,+,Low,GreenFeeders
+F033,Barley,2452,20.0,13.7,37.57,Milking Cows,-,Medium,FarmFeed Co
+F034,Soybean Meal,2042,23.1,14.8,35.49,Adult Cows,+,Low,GreenFeeders
+F035,Bran,2714,17.7,9.9,29.62,Adult Cows,+,Medium,FarmFeed Co
+F036,Hay,2034,22.0,11.9,34.21,Adult Cows,-,Low,Local Vendor
+F037,Bran,2627,23.9,8.6,19.56,Calves,0,High,FarmFeed Co
+F038,Bran,2489,14.8,8.6,36.11,Milking Cows,0,Low,FarmFeed Co
+F039,Maize,2366,19.9,10.5,32.04,Adult Cows,-,Medium,FarmFeed Co
+F040,Soybean Meal,2584,17.8,12.4,36.21,Adult Cows,+,Medium,AgroMart
+F041,Cottonseed Cake,1952,23.8,11.3,35.19,Calves,0,Medium,GreenFeeders
+F042,Hay,2526,17.9,8.8,34.21,Calves,0,High,FarmFeed Co
+F043,Soybean Meal,2395,13.2,10.6,37.67,Adult Cows,0,Medium,Local Vendor
+F044,Bran,2054,13.6,8.3,19.09,Calves,-,High,FarmFeed Co
+F045,Soybean Meal,2075,16.2,7.0,33.38,Milking Cows,0,Low,FarmFeed Co
+F046,Maize,2724,14.4,13.6,18.02,Calves,+,Medium,Local Vendor
+F047,Bran,2071,15.8,12.5,27.54,Calves,+,Medium,GreenFeeders
+F048,Cottonseed Cake,2189,20.2,5.4,34.77,Calves,-,Medium,Local Vendor
+F049,Soybean Meal,2058,17.8,5.3,36.04,Calves,-,Medium,AgroMart
+F050,Bran,2708,13.1,6.5,33.99,Adult Cows,+,Medium,GreenFeeders
+F051,Maize,2312,20.8,8.9,30.6,Calves,-,Low,Local Vendor
+F052,Barley,2790,23.7,8.6,20.8,Adult Cows,0,High,AgroMart
+F053,Hay,2799,20.0,10.5,37.75,Milking Cows,+,High,AgroMart
+F054,Soybean Meal,2138,15.9,13.6,18.66,Milking Cows,+,Medium,AgroMart
+F055,Soybean Meal,2744,13.3,6.5,33.77,Adult Cows,0,Low,Local Vendor
+F056,Soybean Meal,2557,21.3,14.5,25.74,Adult Cows,0,High,AgroMart
+F057,Soybean Meal,2422,13.2,9.0,36.96,Adult Cows,+,High,GreenFeeders
+F058,Barley,2159,12.1,9.9,38.06,Adult Cows,-,Low,Local Vendor
+F059,Bran,2546,20.7,12.7,24.6,Milking Cows,+,Medium,FarmFeed Co
+F060,Cottonseed Cake,2508,16.6,5.9,23.15,Milking Cows,+,Medium,Local Vendor
+F061,Cottonseed Cake,2214,23.9,11.9,30.64,Adult Cows,0,Medium,FarmFeed Co
+F062,Hay,2225,14.2,5.4,25.86,Calves,-,High,FarmFeed Co
+F063,Cottonseed Cake,2725,21.2,5.5,32.65,Calves,0,Medium,GreenFeeders
+F064,Hay,2065,23.3,10.6,30.51,Calves,-,High,FarmFeed Co
+F065,Hay,2290,12.3,10.6,37.95,Adult Cows,0,High,Local Vendor
+F066,Barley,2461,15.9,13.9,39.4,Adult Cows,-,Low,AgroMart
+F067,Hay,2212,15.3,11.3,22.6,Milking Cows,+,Medium,Local Vendor
+F068,Barley,2438,19.1,11.0,26.99,Milking Cows,+,Medium,AgroMart
+F069,Maize,2034,19.3,9.8,19.24,Adult Cows,0,Low,FarmFeed Co
+F070,Soybean Meal,2551,17.5,11.0,25.04,Milking Cows,-,High,Local Vendor
+F071,Maize,1924,22.3,6.6,34.42,Adult Cows,+,Medium,AgroMart
+F072,Bran,2521,13.3,7.4,37.28,Milking Cows,-,Medium,FarmFeed Co
+F073,Barley,2781,15.7,11.8,30.21,Adult Cows,0,Medium,AgroMart
+F074,Hay,1854,20.5,12.7,33.08,Calves,-,Low,AgroMart
+F075,Cottonseed Cake,2112,13.3,10.6,22.4,Milking Cows,0,Medium,Local Vendor
+F076,Soybean Meal,1818,19.0,11.3,30.91,Milking Cows,+,Medium,Local Vendor
+F077,Soybean Meal,2683,13.4,6.0,18.54,Calves,-,Medium,AgroMart
+F078,Barley,1888,19.7,8.9,38.02,Calves,+,Medium,AgroMart
+F079,Soybean Meal,2508,14.0,5.4,19.62,Calves,+,Medium,FarmFeed Co
+F080,Bran,2401,13.4,8.7,20.48,Adult Cows,+,High,AgroMart
+F081,Hay,2221,16.3,15.0,22.84,Milking Cows,+,High,GreenFeeders
+F082,Cottonseed Cake,2559,12.0,7.0,28.03,Milking Cows,+,Medium,GreenFeeders
+F083,Hay,2017,23.4,9.9,33.19,Adult Cows,0,High,AgroMart
+F084,Hay,1922,23.9,9.2,31.7,Adult Cows,0,Low,GreenFeeders
+F085,Maize,2758,15.5,14.9,28.2,Adult Cows,0,High,FarmFeed Co
+F086,Bran,1822,17.7,12.0,26.37,Adult Cows,0,High,Local Vendor
+F087,Cottonseed Cake,1935,18.1,8.4,18.29,Milking Cows,+,High,FarmFeed Co
+F088,Maize,2729,21.2,6.7,20.95,Adult Cows,+,Low,GreenFeeders
+F089,Maize,2730,17.2,11.4,31.17,Milking Cows,+,High,FarmFeed Co
+F090,Barley,2046,22.2,9.2,28.79,Calves,-,Low,FarmFeed Co
+F091,Maize,2201,20.7,9.3,34.25,Calves,+,High,FarmFeed Co
+F092,Maize,2549,22.1,7.8,25.31,Calves,0,Low,GreenFeeders
+F093,Cottonseed Cake,2275,18.1,11.8,22.4,Adult Cows,+,Low,Local Vendor
+F094,Bran,2134,12.2,9.5,22.88,Calves,-,Low,GreenFeeders
+F095,Soybean Meal,2322,17.0,10.4,39.67,Calves,0,Medium,Local Vendor
+F096,Maize,1915,17.3,5.6,18.49,Adult Cows,+,High,FarmFeed Co
+F097,Barley,2706,17.0,6.8,36.31,Adult Cows,+,Medium,FarmFeed Co
+F098,Bran,2615,13.1,10.4,19.16,Adult Cows,0,High,AgroMart
+F099,Cottonseed Cake,2603,13.1,8.0,28.26,Adult Cows,0,Medium,AgroMart
+F100,Bran,2709,18.2,14.7,19.16,Milking Cows,-,Low,Local Vendor
+F101,Bran,2620,14.1,6.4,39.99,Milking Cows,0,Low,AgroMart
+F102,Maize,2618,13.7,15.0,29.89,Milking Cows,+,High,AgroMart
+F103,Maize,2372,20.2,5.7,18.45,Adult Cows,-,Low,GreenFeeders
+F104,Bran,2201,23.2,13.7,35.58,Calves,-,Medium,Local Vendor
+F105,Bran,2456,13.7,7.9,27.21,Adult Cows,+,High,GreenFeeders
+F106,Cottonseed Cake,1884,21.4,11.8,27.17,Adult Cows,+,Low,Local Vendor
+F107,Bran,2444,20.8,6.9,22.44,Calves,-,High,Local Vendor
+F108,Cottonseed Cake,2234,16.4,12.3,39.57,Calves,+,Medium,AgroMart
+F109,Maize,2067,15.8,12.3,30.96,Calves,-,Medium,GreenFeeders
+F110,Maize,1880,14.8,5.2,30.87,Adult Cows,0,Medium,FarmFeed Co
+F111,Hay,2525,23.1,10.6,35.81,Adult Cows,-,Medium,AgroMart
+F112,Soybean Meal,2090,20.9,13.7,19.51,Adult Cows,+,Low,Local Vendor
+F113,Barley,2332,23.2,10.5,34.15,Calves,+,High,AgroMart
+F114,Cottonseed Cake,2083,19.2,10.0,32.03,Calves,+,Low,AgroMart
+F115,Bran,2471,15.0,7.2,33.05,Adult Cows,+,High,GreenFeeders
+F116,Soybean Meal,2657,23.6,8.3,25.82,Adult Cows,0,Medium,Local Vendor
+F117,Soybean Meal,2728,17.0,5.9,34.33,Adult Cows,0,High,AgroMart
+F118,Soybean Meal,2661,21.1,13.8,23.93,Milking Cows,+,Low,GreenFeeders
+F119,Maize,1901,23.6,7.1,34.89,Milking Cows,0,Medium,GreenFeeders
+F120,Soybean Meal,1883,14.0,11.1,29.51,Calves,-,Low,AgroMart
+F121,Bran,1983,16.5,10.4,29.36,Milking Cows,-,Medium,GreenFeeders
+F122,Maize,2449,17.8,7.9,32.92,Milking Cows,-,Low,FarmFeed Co
+F123,Maize,2696,12.2,8.4,28.67,Calves,0,High,AgroMart
+F124,Cottonseed Cake,2395,19.9,10.4,28.71,Calves,0,High,GreenFeeders
+F125,Cottonseed Cake,2056,13.2,8.2,18.06,Milking Cows,-,Low,GreenFeeders
+F126,Hay,2509,17.6,7.2,32.22,Calves,+,High,FarmFeed Co
+F127,Maize,2134,18.6,13.4,32.64,Milking Cows,0,Medium,GreenFeeders
+F128,Bran,1964,16.0,7.1,38.19,Calves,+,High,FarmFeed Co
+F129,Maize,2117,20.0,12.6,25.29,Adult Cows,-,High,GreenFeeders
+F130,Barley,2610,13.1,14.9,23.8,Adult Cows,-,Low,Local Vendor
+F131,Hay,2705,14.3,11.3,25.38,Milking Cows,+,High,FarmFeed Co
+F132,Soybean Meal,2455,21.5,7.0,22.35,Milking Cows,+,Medium,Local Vendor
+F133,Soybean Meal,1937,23.9,8.8,32.34,Calves,+,Low,FarmFeed Co
+F134,Bran,2416,19.6,12.8,18.2,Calves,+,Low,GreenFeeders
+F135,Bran,1873,19.0,7.0,33.15,Adult Cows,+,High,FarmFeed Co
+F136,Soybean Meal,2459,12.2,11.9,38.56,Adult Cows,-,Low,FarmFeed Co
+F137,Maize,2625,18.8,8.2,35.18,Milking Cows,-,High,Local Vendor
+F138,Hay,1919,22.3,11.9,29.54,Calves,+,Low,GreenFeeders
+F139,Hay,2051,23.3,13.6,22.03,Calves,+,Low,AgroMart
+F140,Hay,2659,14.0,7.2,18.17,Milking Cows,0,Low,AgroMart
+F141,Bran,2125,20.3,9.0,34.58,Adult Cows,-,High,GreenFeeders
+F142,Cottonseed Cake,2622,19.4,9.1,33.48,Calves,+,Medium,GreenFeeders
+F143,Cottonseed Cake,1827,17.1,12.4,19.57,Milking Cows,0,High,GreenFeeders
+F144,Soybean Meal,1995,14.5,12.8,39.87,Milking Cows,+,Low,FarmFeed Co
+F145,Barley,1918,19.4,10.4,27.59,Calves,0,High,AgroMart
+F146,Hay,2003,20.8,13.6,31.73,Calves,0,Low,AgroMart
+F147,Cottonseed Cake,2425,23.4,7.2,29.33,Calves,-,Low,Local Vendor
+F148,Soybean Meal,2623,22.7,7.0,35.89,Calves,0,Low,AgroMart
+F149,Maize,2325,16.8,11.7,37.28,Adult Cows,0,Low,FarmFeed Co
+F150,Bran,2127,16.2,7.1,23.71,Calves,0,Medium,AgroMart
+F151,Maize,2379,16.9,8.3,35.96,Adult Cows,+,Medium,Local Vendor
+F152,Cottonseed Cake,2032,19.0,14.3,39.94,Milking Cows,0,Medium,AgroMart
+F153,Maize,1940,13.0,10.9,26.0,Calves,+,High,FarmFeed Co
+F154,Barley,2532,16.3,9.8,18.26,Adult Cows,-,Low,AgroMart
+F155,Cottonseed Cake,1828,22.1,6.5,36.82,Adult Cows,-,Medium,Local Vendor
+F156,Bran,2652,16.4,7.0,39.11,Milking Cows,0,Low,FarmFeed Co
+F157,Maize,2455,23.7,7.7,38.34,Milking Cows,+,High,Local Vendor
+F158,Cottonseed Cake,2466,21.6,8.9,39.79,Milking Cows,-,Medium,FarmFeed Co
+F159,Soybean Meal,2435,14.0,10.0,30.47,Calves,+,Low,FarmFeed Co
+F160,Cottonseed Cake,2585,15.1,14.9,23.63,Milking Cows,+,Medium,AgroMart
+F161,Soybean Meal,2142,23.7,9.3,27.79,Adult Cows,-,Medium,GreenFeeders
+F162,Soybean Meal,2773,16.1,11.8,37.0,Milking Cows,0,Medium,Local Vendor
+F163,Soybean Meal,2486,21.3,11.5,32.62,Calves,+,Low,AgroMart
+F164,Soybean Meal,2477,14.5,13.9,39.73,Adult Cows,0,Medium,GreenFeeders
+F165,Soybean Meal,2712,19.9,12.1,23.5,Adult Cows,-,Low,AgroMart
+F166,Soybean Meal,1923,19.2,11.1,23.48,Adult Cows,-,High,AgroMart
+F167,Maize,2071,20.7,8.5,25.04,Adult Cows,0,Low,Local Vendor
+F168,Bran,2319,19.9,7.8,27.0,Calves,-,High,GreenFeeders
+F169,Soybean Meal,2368,22.0,6.7,33.24,Milking Cows,0,High,GreenFeeders
+F170,Cottonseed Cake,2380,23.1,6.1,19.46,Milking Cows,0,Medium,FarmFeed Co
+F171,Bran,1871,20.2,13.5,33.09,Milking Cows,-,Low,Local Vendor
+F172,Cottonseed Cake,2752,15.4,9.5,25.13,Adult Cows,-,Medium,GreenFeeders
+F173,Hay,2685,13.6,14.6,24.42,Adult Cows,0,High,FarmFeed Co
+F174,Cottonseed Cake,2227,19.4,8.5,22.08,Calves,0,Low,FarmFeed Co
+F175,Soybean Meal,2082,20.9,6.5,24.52,Milking Cows,-,High,FarmFeed Co
+F176,Soybean Meal,1825,13.4,8.5,24.49,Adult Cows,+,Low,GreenFeeders
+F177,Barley,2585,13.1,13.6,27.83,Milking Cows,+,Low,Local Vendor
+F178,Hay,1902,13.1,13.8,38.23,Milking Cows,+,Medium,GreenFeeders
+F179,Barley,1916,23.5,7.4,33.37,Adult Cows,+,Medium,Local Vendor
+F180,Cottonseed Cake,2299,17.0,12.4,36.65,Adult Cows,-,High,FarmFeed Co
+F181,Cottonseed Cake,1987,22.5,6.0,26.09,Calves,+,Low,FarmFeed Co
+F182,Barley,2256,17.4,14.7,32.11,Calves,-,Medium,AgroMart
+F183,Cottonseed Cake,2499,16.1,7.9,26.06,Adult Cows,+,High,Local Vendor
+F184,Hay,2010,23.4,9.9,30.88,Calves,+,Medium,Local Vendor
+F185,Cottonseed Cake,2610,20.4,8.1,19.32,Milking Cows,0,High,GreenFeeders
+F186,Barley,2486,23.4,13.6,37.88,Adult Cows,+,High,FarmFeed Co
+F187,Barley,2687,13.3,9.5,26.58,Milking Cows,0,High,FarmFeed Co
+F188,Maize,2797,21.8,10.7,32.42,Milking Cows,+,High,FarmFeed Co
+F189,Barley,2064,13.8,6.4,34.58,Milking Cows,-,Medium,FarmFeed Co
+F190,Maize,2108,14.0,12.2,30.63,Adult Cows,-,Low,Local Vendor
+F191,Maize,2799,17.9,10.8,26.01,Milking Cows,-,Medium,FarmFeed Co
+F192,Barley,2340,18.6,7.5,29.31,Calves,+,Low,GreenFeeders
+F193,Cottonseed Cake,2304,15.5,11.9,34.98,Adult Cows,-,High,FarmFeed Co
+F194,Soybean Meal,2790,18.5,10.2,33.87,Calves,-,High,Local Vendor
+F195,Maize,2501,23.4,8.4,23.25,Calves,0,Medium,AgroMart
+F196,Cottonseed Cake,2734,16.1,13.4,22.65,Milking Cows,0,Low,AgroMart
+F197,Bran,2212,21.3,10.8,27.63,Adult Cows,+,Low,GreenFeeders
+F198,Hay,2216,16.2,10.2,36.24,Calves,-,High,FarmFeed Co
+F199,Soybean Meal,2291,16.0,5.8,28.66,Calves,+,High,GreenFeeders
+F200,Cottonseed Cake,2344,19.2,11.8,21.92,Calves,-,High,Local Vendor
+F201,Cottonseed Cake,2511,12.9,12.3,22.53,Milking Cows,+,High,FarmFeed Co
+F202,Maize,2344,23.5,13.0,27.78,Milking Cows,+,Medium,FarmFeed Co
+F203,Bran,1840,14.5,8.9,38.28,Adult Cows,+,High,AgroMart
+F204,Barley,2243,21.0,10.8,20.74,Calves,-,Low,FarmFeed Co
+F205,Barley,2128,20.5,7.5,35.46,Calves,-,Medium,AgroMart
+F206,Bran,2009,16.0,10.5,30.03,Calves,+,High,GreenFeeders
+F207,Barley,2562,19.8,8.4,18.16,Adult Cows,+,High,Local Vendor
+F208,Hay,2482,21.8,7.4,30.04,Calves,0,Low,GreenFeeders
+F209,Maize,1982,21.7,6.7,25.15,Calves,0,Low,FarmFeed Co
+F210,Hay,2176,16.9,14.1,33.29,Adult Cows,+,Medium,FarmFeed Co
+F211,Bran,1829,16.5,6.0,31.93,Milking Cows,-,Low,GreenFeeders
+F212,Soybean Meal,2107,14.1,10.6,20.8,Adult Cows,0,Medium,GreenFeeders
+F213,Soybean Meal,1919,15.1,13.6,27.27,Milking Cows,-,High,Local Vendor
+F214,Bran,2613,12.9,5.2,39.9,Milking Cows,0,High,Local Vendor
+F215,Cottonseed Cake,2484,13.3,9.2,30.16,Adult Cows,0,Low,FarmFeed Co
+F216,Cottonseed Cake,2093,14.9,14.0,38.63,Milking Cows,-,High,GreenFeeders
+F217,Maize,2030,14.4,11.1,31.49,Adult Cows,0,Medium,Local Vendor
+F218,Bran,2515,16.4,8.6,26.06,Adult Cows,-,Medium,GreenFeeders
+F219,Bran,2244,15.6,7.3,29.71,Milking Cows,+,High,GreenFeeders
+F220,Soybean Meal,2212,12.2,5.6,25.99,Milking Cows,+,High,Local Vendor
+F221,Cottonseed Cake,2572,23.5,7.5,22.91,Adult Cows,0,Low,GreenFeeders
+F222,Cottonseed Cake,2505,20.8,9.6,18.67,Calves,-,Medium,Local Vendor
+F223,Maize,1963,22.9,5.4,24.5,Milking Cows,-,Low,GreenFeeders
+F224,Cottonseed Cake,2264,18.7,14.3,31.48,Milking Cows,+,Low,Local Vendor
+F225,Cottonseed Cake,1886,16.4,11.6,30.96,Milking Cows,+,High,Local Vendor
+F226,Hay,2504,13.1,6.7,31.56,Milking Cows,+,High,FarmFeed Co
+F227,Barley,1884,15.1,12.8,38.85,Adult Cows,0,High,Local Vendor
+F228,Hay,2688,18.1,9.2,21.09,Milking Cows,-,High,GreenFeeders
+F229,Maize,2444,16.4,13.6,21.49,Milking Cows,+,High,AgroMart
+F230,Barley,2200,23.2,11.3,18.21,Adult Cows,-,High,AgroMart
+F231,Barley,2508,15.8,7.3,33.51,Milking Cows,0,High,Local Vendor
+F232,Bran,2539,12.0,9.3,35.11,Adult Cows,0,Low,Local Vendor
+F233,Cottonseed Cake,2619,17.8,14.8,33.62,Adult Cows,-,Medium,FarmFeed Co
+F234,Bran,1995,23.5,13.0,34.4,Calves,+,Medium,GreenFeeders
+F235,Barley,2142,22.6,8.5,18.43,Calves,0,High,FarmFeed Co
+F236,Soybean Meal,2515,16.0,10.4,30.7,Adult Cows,-,Medium,GreenFeeders
+F237,Barley,2199,19.1,5.3,18.08,Calves,+,Medium,Local Vendor
+F238,Bran,2346,16.8,13.8,18.64,Milking Cows,-,High,FarmFeed Co
+F239,Cottonseed Cake,2046,19.5,14.2,22.31,Calves,0,High,AgroMart
+F240,Barley,2756,23.1,9.6,28.16,Calves,-,High,Local Vendor
+F241,Barley,2745,14.8,9.7,38.29,Milking Cows,-,Low,GreenFeeders
+F242,Bran,1846,13.9,9.2,36.72,Milking Cows,0,Low,AgroMart
+F243,Soybean Meal,2307,17.3,6.8,30.96,Calves,+,High,GreenFeeders
+F244,Cottonseed Cake,2030,17.3,6.5,32.0,Adult Cows,0,High,FarmFeed Co
+F245,Maize,2745,15.0,9.9,18.1,Adult Cows,+,Medium,FarmFeed Co
+F246,Soybean Meal,2623,23.6,13.4,28.1,Adult Cows,0,High,FarmFeed Co
+F247,Barley,1832,14.3,14.1,29.43,Milking Cows,0,High,GreenFeeders
+F248,Cottonseed Cake,2570,20.9,8.4,20.01,Adult Cows,0,Medium,GreenFeeders
+F249,Soybean Meal,2681,12.1,8.6,20.26,Calves,0,Low,AgroMart
+F250,Bran,1951,20.6,6.2,32.41,Calves,-,Low,AgroMart

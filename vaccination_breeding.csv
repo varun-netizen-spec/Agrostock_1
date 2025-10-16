@@ -1,0 +1,251 @@
+Cattle_ID,Breed,Last_Vaccination_Date,Next_Vaccination_Due,Breeding_Status,Last_Breeding_Date,Expected_Calving_Date,Calf_Gender,Veterinarian,Health_Remarks
+C001,Gir,2025-03-12,2025-08-19,Pregnant,2025-02-06,2025-11-13,Male,Dr. Ramesh,Pregnant
+C002,Gir,2025-02-17,2025-07-24,Pregnant,2025-06-10,2026-03-17,Male,Dr. Priya,Check weight
+C003,Gir,2025-02-06,2025-06-17,Non-pregnant,2025-01-04,2025-10-11,Male,Dr. Ramesh,Vaccination scheduled
+C004,Gir,2025-05-26,2025-10-22,Pregnant,2025-01-10,2025-10-17,Male,Dr. Priya,Healthy
+C005,Holstein,2025-06-08,2025-10-31,Non-pregnant,2025-05-18,2026-02-22,Female,Dr. Priya,Healthy
+C006,Murrah,2025-06-09,2025-11-29,Non-pregnant,2025-01-08,2025-10-15,Male,Dr. Priya,Healthy
+C007,Jersey,2025-03-28,2025-08-29,Pregnant,2025-02-09,2025-11-16,Female,Dr. Ramesh,Pregnant
+C008,Holstein,2025-06-23,2025-12-11,Pregnant,2025-05-03,2026-02-07,Female,Dr. Kumar,Check weight
+C009,Holstein,2025-02-25,2025-06-27,Pregnant,2025-04-04,2026-01-09,Male,Dr. Priya,Pregnant
+C010,Holstein,2025-04-02,2025-09-22,Pregnant,2025-03-10,2025-12-15,Male,Dr. Priya,Pregnant
+C011,Holstein,2025-03-12,2025-07-18,Pregnant,2025-03-24,2025-12-29,Female,Dr. Kumar,Pregnant
+C012,Murrah,2025-08-19,2026-01-14,Pregnant,2025-01-25,2025-11-01,Female,Dr. Priya,Check weight
+C013,Murrah,2025-05-25,2025-10-02,Pregnant,2025-04-12,2026-01-17,Female,Dr. Kumar,Check weight
+C014,Sahiwal,2025-04-17,2025-09-22,Non-pregnant,2025-01-08,2025-10-15,Male,Dr. Priya,Needs follow-up
+C015,Holstein,2025-08-22,2026-01-19,Pregnant,2025-02-10,2025-11-17,Male,Dr. Kumar,Check weight
+C016,Gir,2025-03-26,2025-09-07,Non-pregnant,2025-02-03,2025-11-10,Female,Dr. Kumar,Check weight
+C017,Sahiwal,2025-04-07,2025-08-19,Pregnant,2025-04-13,2026-01-18,Male,Dr. Priya,Needs follow-up
+C018,Holstein,2025-03-28,2025-07-29,Pregnant,2025-02-12,2025-11-19,Male,Dr. Kumar,Pregnant
+C019,Sahiwal,2025-01-14,2025-05-28,Pregnant,2025-04-11,2026-01-16,Male,Dr. Ramesh,Needs follow-up
+C020,Murrah,2025-03-17,2025-07-17,Non-pregnant,2025-04-08,2026-01-13,Male,Dr. Kumar,Check weight
+C021,Murrah,2025-02-10,2025-07-31,Pregnant,2025-01-16,2025-10-23,Male,Dr. Priya,Needs follow-up
+C022,Jersey,2025-01-20,2025-06-26,Pregnant,2025-03-19,2025-12-24,Male,Dr. Kumar,Pregnant
+C023,Murrah,2025-07-10,2026-01-03,Non-pregnant,2025-02-03,2025-11-10,Female,Dr. Priya,Check weight
+C024,Gir,2025-06-11,2025-11-04,Non-pregnant,2025-01-07,2025-10-14,Female,Dr. Kumar,Vaccination scheduled
+C025,Holstein,2025-06-03,2025-11-26,Pregnant,2025-04-10,2026-01-15,Female,Dr. Ramesh,Pregnant
+C026,Gir,2025-07-21,2025-12-03,Non-pregnant,2025-01-25,2025-11-01,Female,Dr. Meena,Pregnant
+C027,Gir,2025-05-21,2025-10-14,Non-pregnant,2025-05-15,2026-02-19,Female,Dr. Priya,Pregnant
+C028,Sahiwal,2025-05-16,2025-10-12,Non-pregnant,2025-01-21,2025-10-28,Female,Dr. Priya,Check weight
+C029,Jersey,2025-04-07,2025-10-01,Pregnant,2025-02-20,2025-11-27,Male,Dr. Priya,Healthy
+C030,Gir,2025-01-07,2025-06-09,Pregnant,2025-02-21,2025-11-28,Female,Dr. Meena,Check weight
+C031,Gir,2025-06-26,2025-11-20,Pregnant,2025-04-14,2026-01-19,Female,Dr. Ramesh,Needs follow-up
+C032,Gir,2025-06-10,2025-10-14,Non-pregnant,2025-05-26,2026-03-02,Male,Dr. Ramesh,Check weight
+C033,Jersey,2025-02-25,2025-06-29,Non-pregnant,2025-03-02,2025-12-07,Male,Dr. Meena,Vaccination scheduled
+C034,Sahiwal,2025-04-11,2025-08-26,Non-pregnant,2025-06-11,2026-03-18,Male,Dr. Priya,Pregnant
+C035,Holstein,2025-08-27,2026-01-12,Non-pregnant,2025-04-25,2026-01-30,Female,Dr. Kumar,Needs follow-up
+C036,Gir,2025-08-03,2026-01-11,Non-pregnant,2025-05-17,2026-02-21,Male,Dr. Priya,Needs follow-up
+C037,Sahiwal,2025-03-22,2025-08-16,Pregnant,2025-01-08,2025-10-15,Male,Dr. Ramesh,Pregnant
+C038,Sahiwal,2025-01-08,2025-06-14,Pregnant,2025-06-26,2026-04-02,Male,Dr. Ramesh,Healthy
+C039,Jersey,2025-07-02,2025-11-14,Pregnant,2025-06-01,2026-03-08,Female,Dr. Ramesh,Vaccination scheduled
+C040,Jersey,2025-03-03,2025-08-19,Pregnant,2025-02-25,2025-12-02,Male,Dr. Kumar,Check weight
+C041,Holstein,2025-06-12,2025-10-25,Non-pregnant,2025-03-11,2025-12-16,Female,Dr. Priya,Pregnant
+C042,Murrah,2025-04-05,2025-08-06,Pregnant,2025-01-06,2025-10-13,Female,Dr. Priya,Needs follow-up
+C043,Jersey,2025-06-24,2025-11-14,Non-pregnant,2025-03-08,2025-12-13,Male,Dr. Meena,Check weight
+C044,Sahiwal,2025-01-07,2025-07-02,Non-pregnant,2025-03-07,2025-12-12,Female,Dr. Kumar,Healthy
+C045,Murrah,2025-05-15,2025-10-22,Non-pregnant,2025-03-01,2025-12-06,Female,Dr. Meena,Pregnant
+C046,Holstein,2025-06-14,2025-12-10,Non-pregnant,2025-01-03,2025-10-10,Male,Dr. Meena,Check weight
+C047,Murrah,2025-04-22,2025-09-09,Pregnant,2025-02-03,2025-11-10,Female,Dr. Priya,Healthy
+C048,Holstein,2025-01-04,2025-05-17,Non-pregnant,2025-02-20,2025-11-27,Male,Dr. Meena,Check weight
+C049,Holstein,2025-08-07,2026-01-29,Non-pregnant,2025-04-26,2026-01-31,Female,Dr. Priya,Vaccination scheduled
+C050,Sahiwal,2025-04-21,2025-09-19,Pregnant,2025-04-02,2026-01-07,Female,Dr. Kumar,Pregnant
+C051,Holstein,2025-06-12,2025-11-13,Non-pregnant,2025-03-24,2025-12-29,Female,Dr. Meena,Healthy
+C052,Murrah,2025-01-18,2025-06-16,Non-pregnant,2025-06-22,2026-03-29,Male,Dr. Ramesh,Vaccination scheduled
+C053,Holstein,2025-06-13,2025-11-08,Pregnant,2025-04-02,2026-01-07,Male,Dr. Meena,Healthy
+C054,Jersey,2025-08-26,2026-01-26,Pregnant,2025-06-22,2026-03-29,Female,Dr. Ramesh,Needs follow-up
+C055,Murrah,2025-01-12,2025-06-10,Non-pregnant,2025-05-26,2026-03-02,Female,Dr. Kumar,Needs follow-up
+C056,Murrah,2025-03-13,2025-09-04,Non-pregnant,2025-02-16,2025-11-23,Female,Dr. Kumar,Check weight
+C057,Sahiwal,2025-08-04,2025-12-29,Pregnant,2025-06-20,2026-03-27,Male,Dr. Kumar,Needs follow-up
+C058,Sahiwal,2025-05-08,2025-10-30,Pregnant,2025-02-24,2025-12-01,Female,Dr. Priya,Needs follow-up
+C059,Sahiwal,2025-03-22,2025-08-24,Pregnant,2025-06-08,2026-03-15,Male,Dr. Kumar,Healthy
+C060,Jersey,2025-05-02,2025-10-02,Pregnant,2025-02-05,2025-11-12,Male,Dr. Meena,Check weight
+C061,Gir,2025-02-07,2025-07-18,Pregnant,2025-04-07,2026-01-12,Male,Dr. Priya,Needs follow-up
+C062,Jersey,2025-03-25,2025-08-24,Pregnant,2025-01-20,2025-10-27,Male,Dr. Priya,Pregnant
+C063,Holstein,2025-06-15,2025-11-04,Pregnant,2025-04-19,2026-01-24,Female,Dr. Kumar,Healthy
+C064,Gir,2025-01-15,2025-06-01,Non-pregnant,2025-04-27,2026-02-01,Male,Dr. Meena,Healthy
+C065,Sahiwal,2025-01-14,2025-06-28,Pregnant,2025-02-04,2025-11-11,Female,Dr. Kumar,Check weight
+C066,Sahiwal,2025-05-26,2025-09-27,Pregnant,2025-01-28,2025-11-04,Female,Dr. Meena,Vaccination scheduled
+C067,Sahiwal,2025-07-18,2026-01-11,Pregnant,2025-01-17,2025-10-24,Male,Dr. Ramesh,Pregnant
+C068,Gir,2025-03-11,2025-07-25,Pregnant,2025-06-12,2026-03-19,Male,Dr. Kumar,Pregnant
+C069,Gir,2025-01-25,2025-06-09,Non-pregnant,2025-06-07,2026-03-14,Male,Dr. Kumar,Check weight
+C070,Jersey,2025-04-14,2025-09-21,Pregnant,2025-03-25,2025-12-30,Female,Dr. Meena,Check weight
+C071,Gir,2025-07-07,2025-11-29,Pregnant,2025-05-27,2026-03-03,Female,Dr. Meena,Vaccination scheduled
+C072,Gir,2025-01-01,2025-06-03,Pregnant,2025-03-14,2025-12-19,Female,Dr. Kumar,Healthy
+C073,Murrah,2025-04-12,2025-08-29,Non-pregnant,2025-05-09,2026-02-13,Female,Dr. Ramesh,Check weight
+C074,Sahiwal,2025-03-14,2025-07-30,Non-pregnant,2025-04-16,2026-01-21,Male,Dr. Ramesh,Needs follow-up
+C075,Jersey,2025-03-09,2025-07-10,Non-pregnant,2025-01-16,2025-10-23,Female,Dr. Ramesh,Healthy
+C076,Sahiwal,2025-06-22,2025-12-14,Pregnant,2025-06-01,2026-03-08,Male,Dr. Kumar,Check weight
+C077,Jersey,2025-07-26,2025-12-24,Pregnant,2025-01-25,2025-11-01,Male,Dr. Meena,Check weight
+C078,Holstein,2025-05-17,2025-10-28,Non-pregnant,2025-01-18,2025-10-25,Male,Dr. Kumar,Needs follow-up
+C079,Holstein,2025-01-16,2025-06-23,Pregnant,2025-05-21,2026-02-25,Male,Dr. Priya,Vaccination scheduled
+C080,Sahiwal,2025-07-20,2025-12-16,Non-pregnant,2025-02-16,2025-11-23,Male,Dr. Ramesh,Pregnant
+C081,Murrah,2025-08-22,2025-12-28,Non-pregnant,2025-06-07,2026-03-14,Female,Dr. Kumar,Healthy
+C082,Sahiwal,2025-07-09,2025-12-24,Non-pregnant,2025-01-24,2025-10-31,Female,Dr. Meena,Healthy
+C083,Holstein,2025-01-04,2025-05-21,Non-pregnant,2025-03-24,2025-12-29,Female,Dr. Priya,Check weight
+C084,Sahiwal,2025-02-18,2025-07-25,Non-pregnant,2025-01-06,2025-10-13,Female,Dr. Meena,Check weight
+C085,Gir,2025-02-25,2025-07-18,Pregnant,2025-03-18,2025-12-23,Female,Dr. Kumar,Pregnant
+C086,Sahiwal,2025-01-02,2025-05-19,Non-pregnant,2025-05-28,2026-03-04,Male,Dr. Priya,Needs follow-up
+C087,Jersey,2025-02-15,2025-06-29,Pregnant,2025-04-10,2026-01-15,Male,Dr. Ramesh,Needs follow-up
+C088,Sahiwal,2025-06-27,2025-11-28,Pregnant,2025-05-12,2026-02-16,Female,Dr. Priya,Pregnant
+C089,Sahiwal,2025-07-07,2025-12-23,Non-pregnant,2025-03-18,2025-12-23,Male,Dr. Priya,Pregnant
+C090,Gir,2025-06-15,2025-10-15,Pregnant,2025-02-17,2025-11-24,Male,Dr. Ramesh,Pregnant
+C091,Jersey,2025-01-16,2025-06-09,Pregnant,2025-02-07,2025-11-14,Male,Dr. Priya,Healthy
+C092,Jersey,2025-04-19,2025-08-26,Pregnant,2025-03-17,2025-12-22,Female,Dr. Ramesh,Vaccination scheduled
+C093,Murrah,2025-06-28,2025-12-20,Pregnant,2025-02-09,2025-11-16,Female,Dr. Kumar,Pregnant
+C094,Gir,2025-04-03,2025-08-03,Pregnant,2025-05-07,2026-02-11,Male,Dr. Kumar,Pregnant
+C095,Gir,2025-07-05,2025-11-24,Non-pregnant,2025-05-26,2026-03-02,Male,Dr. Priya,Pregnant
+C096,Gir,2025-08-08,2026-01-18,Non-pregnant,2025-06-26,2026-04-02,Male,Dr. Kumar,Vaccination scheduled
+C097,Murrah,2025-08-22,2026-01-19,Pregnant,2025-01-28,2025-11-04,Male,Dr. Ramesh,Check weight
+C098,Holstein,2025-02-28,2025-06-30,Non-pregnant,2025-01-11,2025-10-18,Female,Dr. Ramesh,Needs follow-up
+C099,Jersey,2025-05-27,2025-10-10,Pregnant,2025-01-06,2025-10-13,Male,Dr. Meena,Pregnant
+C100,Sahiwal,2025-06-20,2025-12-15,Non-pregnant,2025-04-12,2026-01-17,Male,Dr. Meena,Vaccination scheduled
+C101,Gir,2025-01-24,2025-06-14,Pregnant,2025-04-12,2026-01-17,Male,Dr. Kumar,Vaccination scheduled
+C102,Sahiwal,2025-07-16,2025-12-10,Non-pregnant,2025-01-23,2025-10-30,Male,Dr. Kumar,Vaccination scheduled
+C103,Jersey,2025-01-10,2025-06-13,Non-pregnant,2025-02-02,2025-11-09,Female,Dr. Kumar,Healthy
+C104,Murrah,2025-07-17,2025-12-03,Non-pregnant,2025-05-02,2026-02-06,Male,Dr. Ramesh,Pregnant
+C105,Gir,2025-04-03,2025-08-15,Non-pregnant,2025-06-17,2026-03-24,Female,Dr. Kumar,Healthy
+C106,Jersey,2025-01-05,2025-05-31,Pregnant,2025-03-23,2025-12-28,Male,Dr. Ramesh,Needs follow-up
+C107,Murrah,2025-06-15,2025-11-16,Non-pregnant,2025-06-23,2026-03-30,Female,Dr. Ramesh,Pregnant
+C108,Holstein,2025-06-23,2025-12-02,Pregnant,2025-06-11,2026-03-18,Female,Dr. Meena,Check weight
+C109,Gir,2025-03-20,2025-08-27,Pregnant,2025-02-19,2025-11-26,Male,Dr. Meena,Pregnant
+C110,Jersey,2025-02-06,2025-06-06,Non-pregnant,2025-06-27,2026-04-03,Female,Dr. Meena,Check weight
+C111,Jersey,2025-03-15,2025-08-25,Pregnant,2025-01-24,2025-10-31,Male,Dr. Ramesh,Healthy
+C112,Holstein,2025-07-21,2026-01-01,Non-pregnant,2025-04-02,2026-01-07,Male,Dr. Meena,Needs follow-up
+C113,Sahiwal,2025-07-23,2026-01-19,Pregnant,2025-01-25,2025-11-01,Male,Dr. Priya,Vaccination scheduled
+C114,Holstein,2025-03-26,2025-08-27,Pregnant,2025-06-21,2026-03-28,Female,Dr. Ramesh,Pregnant
+C115,Murrah,2025-06-23,2025-11-17,Non-pregnant,2025-01-12,2025-10-19,Female,Dr. Kumar,Needs follow-up
+C116,Sahiwal,2025-07-02,2025-12-18,Pregnant,2025-02-26,2025-12-03,Female,Dr. Priya,Needs follow-up
+C117,Holstein,2025-03-27,2025-07-29,Pregnant,2025-04-11,2026-01-16,Male,Dr. Kumar,Check weight
+C118,Sahiwal,2025-01-11,2025-06-08,Non-pregnant,2025-02-13,2025-11-20,Female,Dr. Ramesh,Pregnant
+C119,Jersey,2025-07-17,2025-12-02,Pregnant,2025-06-21,2026-03-28,Female,Dr. Priya,Check weight
+C120,Holstein,2025-04-21,2025-09-21,Non-pregnant,2025-05-20,2026-02-24,Female,Dr. Priya,Vaccination scheduled
+C121,Sahiwal,2025-05-25,2025-10-02,Pregnant,2025-02-10,2025-11-17,Male,Dr. Ramesh,Needs follow-up
+C122,Holstein,2025-01-23,2025-06-19,Pregnant,2025-06-02,2026-03-09,Female,Dr. Priya,Vaccination scheduled
+C123,Murrah,2025-02-10,2025-06-18,Pregnant,2025-04-17,2026-01-22,Female,Dr. Meena,Healthy
+C124,Gir,2025-07-01,2025-12-07,Non-pregnant,2025-02-18,2025-11-25,Male,Dr. Kumar,Healthy
+C125,Sahiwal,2025-01-10,2025-06-03,Pregnant,2025-04-07,2026-01-12,Female,Dr. Ramesh,Needs follow-up
+C126,Gir,2025-01-06,2025-06-23,Pregnant,2025-02-22,2025-11-29,Female,Dr. Meena,Pregnant
+C127,Sahiwal,2025-03-05,2025-07-17,Non-pregnant,2025-05-10,2026-02-14,Female,Dr. Kumar,Pregnant
+C128,Murrah,2025-05-12,2025-10-30,Pregnant,2025-03-13,2025-12-18,Male,Dr. Kumar,Healthy
+C129,Murrah,2025-07-21,2025-12-24,Non-pregnant,2025-02-07,2025-11-14,Female,Dr. Priya,Needs follow-up
+C130,Jersey,2025-07-02,2025-11-24,Pregnant,2025-05-25,2026-03-01,Male,Dr. Meena,Check weight
+C131,Holstein,2025-06-14,2025-11-12,Non-pregnant,2025-05-09,2026-02-13,Female,Dr. Priya,Healthy
+C132,Jersey,2025-08-15,2026-01-01,Pregnant,2025-01-24,2025-10-31,Male,Dr. Kumar,Needs follow-up
+C133,Sahiwal,2025-07-06,2025-11-29,Non-pregnant,2025-06-15,2026-03-22,Male,Dr. Ramesh,Needs follow-up
+C134,Holstein,2025-04-08,2025-09-07,Pregnant,2025-05-08,2026-02-12,Female,Dr. Kumar,Needs follow-up
+C135,Gir,2025-05-05,2025-09-06,Pregnant,2025-04-02,2026-01-07,Female,Dr. Meena,Needs follow-up
+C136,Murrah,2025-05-12,2025-11-04,Non-pregnant,2025-06-17,2026-03-24,Male,Dr. Ramesh,Check weight
+C137,Jersey,2025-08-28,2026-01-12,Non-pregnant,2025-01-16,2025-10-23,Female,Dr. Ramesh,Healthy
+C138,Holstein,2025-01-22,2025-05-29,Non-pregnant,2025-06-01,2026-03-08,Male,Dr. Priya,Check weight
+C139,Sahiwal,2025-03-02,2025-07-25,Pregnant,2025-03-24,2025-12-29,Female,Dr. Ramesh,Needs follow-up
+C140,Holstein,2025-02-07,2025-07-23,Non-pregnant,2025-06-10,2026-03-17,Male,Dr. Kumar,Needs follow-up
+C141,Jersey,2025-02-24,2025-07-18,Non-pregnant,2025-04-02,2026-01-07,Male,Dr. Priya,Vaccination scheduled
+C142,Murrah,2025-01-09,2025-06-05,Non-pregnant,2025-05-01,2026-02-05,Male,Dr. Priya,Pregnant
+C143,Murrah,2025-01-11,2025-05-15,Non-pregnant,2025-05-02,2026-02-06,Female,Dr. Priya,Check weight
+C144,Sahiwal,2025-06-24,2025-10-24,Pregnant,2025-05-03,2026-02-07,Female,Dr. Ramesh,Vaccination scheduled
+C145,Murrah,2025-04-10,2025-08-22,Non-pregnant,2025-04-12,2026-01-17,Female,Dr. Priya,Pregnant
+C146,Murrah,2025-05-05,2025-10-02,Pregnant,2025-06-15,2026-03-22,Male,Dr. Priya,Pregnant
+C147,Murrah,2025-08-09,2026-01-20,Non-pregnant,2025-06-28,2026-04-04,Female,Dr. Kumar,Check weight
+C148,Jersey,2025-05-24,2025-11-15,Non-pregnant,2025-03-11,2025-12-16,Female,Dr. Kumar,Vaccination scheduled
+C149,Sahiwal,2025-04-04,2025-08-12,Pregnant,2025-01-11,2025-10-18,Male,Dr. Meena,Check weight
+C150,Gir,2025-02-25,2025-08-24,Pregnant,2025-06-28,2026-04-04,Female,Dr. Priya,Healthy
+C151,Murrah,2025-07-05,2025-12-01,Non-pregnant,2025-02-22,2025-11-29,Male,Dr. Ramesh,Check weight
+C152,Jersey,2025-06-04,2025-10-30,Non-pregnant,2025-02-16,2025-11-23,Male,Dr. Ramesh,Needs follow-up
+C153,Gir,2025-05-16,2025-09-27,Pregnant,2025-01-02,2025-10-09,Male,Dr. Ramesh,Pregnant
+C154,Holstein,2025-05-23,2025-10-20,Pregnant,2025-06-21,2026-03-28,Female,Dr. Meena,Vaccination scheduled
+C155,Murrah,2025-06-03,2025-11-09,Non-pregnant,2025-01-05,2025-10-12,Male,Dr. Meena,Needs follow-up
+C156,Jersey,2025-07-26,2025-12-03,Pregnant,2025-04-26,2026-01-31,Male,Dr. Ramesh,Pregnant
+C157,Holstein,2025-01-02,2025-06-17,Pregnant,2025-05-06,2026-02-10,Male,Dr. Ramesh,Vaccination scheduled
+C158,Sahiwal,2025-05-25,2025-10-10,Pregnant,2025-03-20,2025-12-25,Male,Dr. Meena,Needs follow-up
+C159,Murrah,2025-06-14,2025-12-05,Non-pregnant,2025-06-24,2026-03-31,Female,Dr. Ramesh,Healthy
+C160,Sahiwal,2025-05-14,2025-10-07,Pregnant,2025-01-07,2025-10-14,Female,Dr. Meena,Check weight
+C161,Sahiwal,2025-02-19,2025-06-23,Pregnant,2025-04-14,2026-01-19,Male,Dr. Ramesh,Healthy
+C162,Jersey,2025-04-04,2025-08-26,Pregnant,2025-06-11,2026-03-18,Female,Dr. Priya,Check weight
+C163,Gir,2025-05-27,2025-10-25,Non-pregnant,2025-04-22,2026-01-27,Male,Dr. Ramesh,Check weight
+C164,Holstein,2025-02-14,2025-07-30,Non-pregnant,2025-01-05,2025-10-12,Male,Dr. Ramesh,Pregnant
+C165,Murrah,2025-06-03,2025-11-08,Pregnant,2025-03-25,2025-12-30,Female,Dr. Priya,Healthy
+C166,Sahiwal,2025-02-09,2025-08-04,Pregnant,2025-06-07,2026-03-14,Male,Dr. Ramesh,Vaccination scheduled
+C167,Holstein,2025-06-04,2025-10-27,Pregnant,2025-05-11,2026-02-15,Male,Dr. Ramesh,Needs follow-up
+C168,Gir,2025-01-10,2025-06-08,Pregnant,2025-03-16,2025-12-21,Male,Dr. Ramesh,Pregnant
+C169,Holstein,2025-02-11,2025-07-20,Pregnant,2025-06-28,2026-04-04,Female,Dr. Meena,Pregnant
+C170,Gir,2025-04-16,2025-09-24,Non-pregnant,2025-02-26,2025-12-03,Male,Dr. Ramesh,Vaccination scheduled
+C171,Holstein,2025-05-26,2025-09-26,Non-pregnant,2025-05-06,2026-02-10,Male,Dr. Kumar,Needs follow-up
+C172,Murrah,2025-04-13,2025-08-24,Pregnant,2025-04-26,2026-01-31,Female,Dr. Priya,Healthy
+C173,Murrah,2025-07-22,2026-01-08,Pregnant,2025-02-06,2025-11-13,Male,Dr. Kumar,Needs follow-up
+C174,Murrah,2025-07-22,2025-11-27,Pregnant,2025-02-17,2025-11-24,Female,Dr. Kumar,Vaccination scheduled
+C175,Jersey,2025-05-27,2025-11-06,Non-pregnant,2025-02-01,2025-11-08,Female,Dr. Ramesh,Check weight
+C176,Jersey,2025-01-22,2025-05-23,Non-pregnant,2025-06-13,2026-03-20,Male,Dr. Kumar,Check weight
+C177,Gir,2025-08-11,2026-01-21,Non-pregnant,2025-02-01,2025-11-08,Male,Dr. Kumar,Pregnant
+C178,Sahiwal,2025-05-23,2025-10-06,Pregnant,2025-02-14,2025-11-21,Female,Dr. Ramesh,Vaccination scheduled
+C179,Jersey,2025-08-03,2026-01-11,Non-pregnant,2025-05-01,2026-02-05,Male,Dr. Kumar,Vaccination scheduled
+C180,Jersey,2025-05-04,2025-09-30,Pregnant,2025-06-12,2026-03-19,Male,Dr. Kumar,Healthy
+C181,Murrah,2025-08-22,2026-01-05,Non-pregnant,2025-05-18,2026-02-22,Male,Dr. Kumar,Check weight
+C182,Sahiwal,2025-01-17,2025-06-10,Non-pregnant,2025-04-12,2026-01-17,Female,Dr. Priya,Check weight
+C183,Sahiwal,2025-03-09,2025-08-10,Pregnant,2025-03-19,2025-12-24,Female,Dr. Priya,Needs follow-up
+C184,Sahiwal,2025-06-24,2025-11-15,Non-pregnant,2025-02-08,2025-11-15,Female,Dr. Meena,Healthy
+C185,Sahiwal,2025-07-10,2025-12-01,Non-pregnant,2025-02-05,2025-11-12,Female,Dr. Kumar,Needs follow-up
+C186,Holstein,2025-01-28,2025-07-25,Pregnant,2025-01-01,2025-10-08,Female,Dr. Ramesh,Healthy
+C187,Murrah,2025-06-15,2025-10-15,Pregnant,2025-03-18,2025-12-23,Male,Dr. Kumar,Pregnant
+C188,Holstein,2025-05-25,2025-11-02,Pregnant,2025-05-07,2026-02-11,Female,Dr. Kumar,Needs follow-up
+C189,Murrah,2025-01-10,2025-07-01,Pregnant,2025-01-14,2025-10-21,Female,Dr. Priya,Vaccination scheduled
+C190,Holstein,2025-05-13,2025-09-26,Non-pregnant,2025-04-08,2026-01-13,Female,Dr. Ramesh,Vaccination scheduled
+C191,Murrah,2025-01-17,2025-07-11,Non-pregnant,2025-01-22,2025-10-29,Female,Dr. Ramesh,Check weight
+C192,Murrah,2025-07-07,2025-11-24,Pregnant,2025-03-14,2025-12-19,Female,Dr. Meena,Needs follow-up
+C193,Holstein,2025-07-04,2025-11-20,Pregnant,2025-03-15,2025-12-20,Male,Dr. Meena,Healthy
+C194,Sahiwal,2025-06-04,2025-10-19,Pregnant,2025-03-26,2025-12-31,Male,Dr. Kumar,Healthy
+C195,Gir,2025-06-12,2025-12-06,Non-pregnant,2025-05-25,2026-03-01,Female,Dr. Ramesh,Pregnant
+C196,Jersey,2025-01-17,2025-06-11,Non-pregnant,2025-04-09,2026-01-14,Male,Dr. Kumar,Healthy
+C197,Jersey,2025-07-10,2025-12-05,Pregnant,2025-02-02,2025-11-09,Male,Dr. Kumar,Healthy
+C198,Sahiwal,2025-02-07,2025-06-08,Pregnant,2025-01-27,2025-11-03,Female,Dr. Ramesh,Healthy
+C199,Sahiwal,2025-07-03,2025-12-25,Non-pregnant,2025-02-28,2025-12-05,Male,Dr. Priya,Pregnant
+C200,Murrah,2025-07-14,2025-11-12,Non-pregnant,2025-05-24,2026-02-28,Male,Dr. Priya,Healthy
+C201,Sahiwal,2025-03-19,2025-09-07,Non-pregnant,2025-04-03,2026-01-08,Male,Dr. Meena,Check weight
+C202,Gir,2025-02-16,2025-08-15,Non-pregnant,2025-03-26,2025-12-31,Male,Dr. Priya,Check weight
+C203,Sahiwal,2025-05-12,2025-10-12,Non-pregnant,2025-05-14,2026-02-18,Male,Dr. Ramesh,Check weight
+C204,Murrah,2025-03-17,2025-08-31,Non-pregnant,2025-04-26,2026-01-31,Male,Dr. Kumar,Healthy
+C205,Holstein,2025-05-22,2025-09-30,Non-pregnant,2025-03-27,2026-01-01,Female,Dr. Kumar,Vaccination scheduled
+C206,Gir,2025-05-06,2025-10-10,Pregnant,2025-02-19,2025-11-26,Female,Dr. Ramesh,Needs follow-up
+C207,Gir,2025-04-16,2025-10-01,Non-pregnant,2025-06-18,2026-03-25,Male,Dr. Meena,Check weight
+C208,Jersey,2025-05-16,2025-10-15,Non-pregnant,2025-02-03,2025-11-10,Female,Dr. Ramesh,Vaccination scheduled
+C209,Sahiwal,2025-02-08,2025-07-19,Pregnant,2025-02-05,2025-11-12,Male,Dr. Kumar,Pregnant
+C210,Gir,2025-05-13,2025-09-28,Pregnant,2025-05-13,2026-02-17,Female,Dr. Ramesh,Vaccination scheduled
+C211,Murrah,2025-08-19,2025-12-19,Pregnant,2025-05-01,2026-02-05,Female,Dr. Meena,Needs follow-up
+C212,Sahiwal,2025-01-06,2025-06-06,Pregnant,2025-03-15,2025-12-20,Female,Dr. Kumar,Check weight
+C213,Sahiwal,2025-06-01,2025-10-01,Non-pregnant,2025-03-16,2025-12-21,Female,Dr. Meena,Healthy
+C214,Gir,2025-05-28,2025-09-26,Pregnant,2025-04-24,2026-01-29,Male,Dr. Meena,Vaccination scheduled
+C215,Gir,2025-05-06,2025-09-27,Non-pregnant,2025-05-15,2026-02-19,Male,Dr. Meena,Healthy
+C216,Holstein,2025-03-19,2025-08-04,Pregnant,2025-05-26,2026-03-02,Female,Dr. Priya,Check weight
+C217,Murrah,2025-01-28,2025-06-07,Non-pregnant,2025-06-09,2026-03-16,Male,Dr. Meena,Needs follow-up
+C218,Gir,2025-06-10,2025-12-03,Pregnant,2025-02-22,2025-11-29,Male,Dr. Priya,Pregnant
+C219,Holstein,2025-08-01,2025-12-04,Pregnant,2025-06-21,2026-03-28,Female,Dr. Priya,Vaccination scheduled
+C220,Jersey,2025-07-02,2025-12-01,Non-pregnant,2025-02-15,2025-11-22,Male,Dr. Priya,Check weight
+C221,Holstein,2025-03-15,2025-08-28,Non-pregnant,2025-04-25,2026-01-30,Female,Dr. Kumar,Check weight
+C222,Murrah,2025-04-15,2025-08-20,Pregnant,2025-04-21,2026-01-26,Male,Dr. Ramesh,Pregnant
+C223,Sahiwal,2025-08-26,2026-01-18,Pregnant,2025-02-17,2025-11-24,Female,Dr. Meena,Check weight
+C224,Jersey,2025-03-07,2025-08-29,Pregnant,2025-03-09,2025-12-14,Male,Dr. Priya,Check weight
+C225,Sahiwal,2025-02-25,2025-07-16,Non-pregnant,2025-05-03,2026-02-07,Female,Dr. Priya,Needs follow-up
+C226,Sahiwal,2025-03-26,2025-08-06,Pregnant,2025-04-13,2026-01-18,Male,Dr. Kumar,Needs follow-up
+C227,Sahiwal,2025-08-07,2026-01-06,Non-pregnant,2025-02-09,2025-11-16,Male,Dr. Ramesh,Vaccination scheduled
+C228,Sahiwal,2025-04-18,2025-09-21,Non-pregnant,2025-05-09,2026-02-13,Male,Dr. Ramesh,Vaccination scheduled
+C229,Gir,2025-04-27,2025-09-21,Non-pregnant,2025-04-27,2026-02-01,Female,Dr. Kumar,Needs follow-up
+C230,Murrah,2025-04-17,2025-09-12,Pregnant,2025-05-15,2026-02-19,Male,Dr. Meena,Vaccination scheduled
+C231,Murrah,2025-02-13,2025-07-02,Non-pregnant,2025-03-15,2025-12-20,Male,Dr. Priya,Pregnant
+C232,Sahiwal,2025-03-25,2025-09-03,Non-pregnant,2025-02-24,2025-12-01,Female,Dr. Priya,Needs follow-up
+C233,Jersey,2025-06-24,2025-10-29,Pregnant,2025-06-19,2026-03-26,Female,Dr. Kumar,Pregnant
+C234,Holstein,2025-01-03,2025-06-30,Pregnant,2025-05-22,2026-02-26,Male,Dr. Kumar,Vaccination scheduled
+C235,Holstein,2025-03-28,2025-08-12,Non-pregnant,2025-03-10,2025-12-15,Male,Dr. Kumar,Healthy
+C236,Holstein,2025-01-10,2025-06-13,Non-pregnant,2025-05-22,2026-02-26,Male,Dr. Kumar,Check weight
+C237,Sahiwal,2025-06-13,2025-11-11,Pregnant,2025-03-10,2025-12-15,Male,Dr. Priya,Needs follow-up
+C238,Jersey,2025-03-14,2025-07-18,Non-pregnant,2025-06-08,2026-03-15,Male,Dr. Ramesh,Check weight
+C239,Jersey,2025-08-19,2026-01-23,Non-pregnant,2025-06-19,2026-03-26,Male,Dr. Meena,Healthy
+C240,Murrah,2025-03-10,2025-07-27,Non-pregnant,2025-04-13,2026-01-18,Male,Dr. Kumar,Healthy
+C241,Sahiwal,2025-06-20,2025-11-03,Non-pregnant,2025-01-23,2025-10-30,Male,Dr. Kumar,Vaccination scheduled
+C242,Holstein,2025-07-09,2025-12-17,Non-pregnant,2025-05-16,2026-02-20,Female,Dr. Ramesh,Check weight
+C243,Murrah,2025-01-21,2025-05-22,Non-pregnant,2025-02-10,2025-11-17,Female,Dr. Priya,Vaccination scheduled
+C244,Jersey,2025-01-19,2025-07-06,Non-pregnant,2025-05-14,2026-02-18,Female,Dr. Meena,Check weight
+C245,Holstein,2025-06-17,2025-11-26,Non-pregnant,2025-06-15,2026-03-22,Male,Dr. Meena,Needs follow-up
+C246,Sahiwal,2025-04-03,2025-09-30,Pregnant,2025-02-15,2025-11-22,Female,Dr. Ramesh,Vaccination scheduled
+C247,Holstein,2025-07-26,2025-12-19,Pregnant,2025-05-06,2026-02-10,Female,Dr. Priya,Needs follow-up
+C248,Sahiwal,2025-06-20,2025-10-27,Pregnant,2025-04-02,2026-01-07,Male,Dr. Priya,Needs follow-up
+C249,Holstein,2025-07-18,2025-12-30,Non-pregnant,2025-05-15,2026-02-19,Male,Dr. Ramesh,Vaccination scheduled
+C250,Gir,2025-02-28,2025-07-16,Non-pregnant,2025-05-15,2026-02-19,Male,Dr. Kumar,Needs follow-up
